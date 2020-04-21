@@ -1,5 +1,5 @@
-# KNN4president
-El tiempo es aleatorio
+# Predicción de Potencia generada por una turbina
+Usando datos meteorológicos de una estación situada a 15km de la turbina
 
 Lo que más hay que mirar yo creo que es el estado del arte. A continuación se ven los artículos relaccionados que encontramos y la relacción que tienen con nuestro tabajo:
 
