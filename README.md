@@ -1,7 +1,11 @@
 # Predicción de Potencia generada por una turbina
 Usando datos meteorológicos de una estación situada a 15km de la turbina
 
-Lo que más hay que mirar yo creo que es el estado del arte. A continuación se ven los artículos relaccionados que encontramos y la relacción que tienen con nuestro tabajo:
+Para obtener los datos de la potencia y viento en la turbina utilizar el archivo TurbineDB.csv, extraído de https://www.kaggle.com/berkerisen/wind-turbine-scada-dataset
+
+Para obtener los datos meteorológicos de la estación de Yalova utilizar el archivo WeatherDB_ajustado.csv. Adaptado a partir del registro de la web https://www.worldweatheronline.com/yalova-weather-history/yalova/tr.aspx
+
+A continuación se ven los artículos relaccionados que encontramos y la relacción que tienen con nuestro tabajo:
 
 1. "Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting", by "SHI, Xingjian and Chen, Zhourong and Wang, Hao and Yeung, Dit-Yan and Wong, Wai-kin and WOO, Wang-chun"
     
